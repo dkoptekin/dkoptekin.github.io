@@ -1,0 +1,204 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Dilek Koptekin
+    tagline: Postdoctoral Researcher @CompEvo, METU
+    avatar: photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email:
+    phone:
+    timezone: Ankara/Turkey
+    citizenship:
+    website:  compevo.bio.metu.edu.tr #do not add http://
+    orcid: 0000-0003-2664-5774
+    google-scholar: scholar.google.com/citations?user=CnNS56kAAAAJ&hl=en
+    linkedin:
+    xing:
+    github: dkoptekin
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@dilekopter'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf:
+
+    interests:
+      title: Research interests
+      info:
+        - item: Population genetics
+          link:
+
+        - item: Computational biology
+          link:
+
+        - item: ancient DNA
+          link:
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Turkish
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+        - idiom: German
+          level: Beginner
+
+career-profile:
+    title:
+    summary: I am a computational biologist, currently working as a postdoctoral researcher at the [Comparative and Evolutionary Biology research group](http://compevo.bio.metu.edu.tr/) at METU, Ankara, Turkey. My research is mainly focused on understanding the evolutionary history of past human populations that includes ancient DNA analyses (archaeogenomics) of humans and domestic animals and population genomics of modern-populations.
+
+education:
+    title: Education
+    info:
+      - degree: PhD in Medical Informatics
+        university: Middle East Technical University, Ankara, Turkey
+        time: 2022
+      - degree: MSc in Biology
+        university: Ege University, İzmir, Turkey
+        time: 2015
+      - degree: BEd & MEd in Biology Education
+        university: Hacettepe University, Ankara, Turkey
+        time: 2011
+
+grants:
+    title: Research Grants and Fellowships
+    info:
+      - funder: European Molecular Biology Organization (EMBO)
+        time: 2020
+        project: Scientific Exchange Grant
+        details: |
+          Where did the expansion start? Inferring the demographic history of the first farmers in the Aegean using Approximate Bayesian Computation
+          (PI: Flora Jay),
+          Université Paris-Saclay, Centre National de la Recherche Scientifique, Inria, Laboratoire de Recherche en Informatique, Orsay, France
+      - funder: Wenner-Gren Foundation
+        time: 2018
+        project: Dissertation Fieldwork Grant
+        details: |
+          Ancient genomic analysis of Neolithization in Anatolia and the Aegean
+      - funder: European Society for Evolutionary Biology (ESEB)
+        time: 2015
+        project: Outreach Initiative Fund
+        details: |
+          Teaching & Popularizing Evolution in Turkey (with Tülin Çetin, Mehmet Somel, Murat Tuğrul)
+      - funder: Erasmus+
+        time: 2014
+        project: Traineeship
+        details: |
+          Computational Biology of small RNAs (PI: Tamas Dalmay).
+          University of East Anglia, School of Biological Sciences, Norwich, UK
+
+publications:
+    title: Publications
+    intro:
+    papers:
+
+      - title: "A comparative tool for taxon identification of ultra low coverage ancient genomes"
+        link: "https://doi.org/10.12688/openreseurope.14936.1"
+        authors:  Gözde Atağ, Kıvılcım Başak Vural, Damla Kaptan, Mustafa Özkan, <b>Dilek Koptekin</b>, Ekin Sağlıcan, Sevcan Doğramacı, Mevlüt Köz, Ardan Yılmaz, Arda Söylev, İnci Togan, Mehmet Somel, Füsun Özer
+        conference: "Open Res Europe (2022), 2:100"
+
+      - title: "A genomic snapshot of demographic and cultural dynamism in Upper Mesopotamia during the Neolithic Transition"
+        link: "https://doi.org/10.1101/2022.01.31.478487"
+        authors:  N Ezgi Altınışık, Duygu Deniz Kazancı, Ayça Aydoğan, Hasan Can Gemici, Ömür Dilek Erdal, Savaş Sarıaltun, Kıvılcım Başak Vural, <b>Dilek Koptekin</b>, Kanat Gürün, Ekin Sağlıcan, Gökhan Çakan, Meliha Melis Koruyucu, Vendela Kempe Lagerholm, Cansu Karamurat, Mustafa Özkan, Gülşah Merve Kılınç, Arda Sevkar, Elif Sürer, Anders Götherström, Çiğdem Atakuman, Yılmaz Selim Erdal, Füsun Özer, Aslı Erim Özdoğan, Mehmet Somel
+        conference: "bioRxiv (2022)"
+
+      - title: "CONGA: Copy number variation genotyping in ancient genomes and low-coverage sequencing data"
+        link: "https://doi.org/10.1101/2021.12.17.473150"
+        authors:  Arda Söylev, Sevim Seda Çokoglu, <b>Dilek Koptekin</b>, Can Alkan, Mehmet Somel
+        conference: "bioRxiv (2021)"
+
+      - title: "Archaeogenetic analysis of Neolithic sheep from Anatolia suggests a complex demographic history since domestication"
+        link: "https://doi.org/10.1038/s42003-021-02794-8"
+        authors:  Erinç Yurtman, Onur Özer, Eren Yüncü, Nihan Dilşad Dağtaş, <b>Dilek Koptekin</b>, Yasin Gökhan Çakan, Mustafa Özkan, Ali Akbaba, Damla Kaptan, Gözde Atağ, Kıvılcım Başak Vural, Can Yümni Gündem, Louise Martin, Gülşah Merve Kılınç, Ayshin Ghalichi, Sinan Can Açan, Reyhan Yaka, Ekin Sağlıcan, Vendela Kempe Lagerholm, Maja Krzewińska, Torsten Günther, Pedro Morell Miranda, Evangelia Pişkin, Müge Şevketoğlu, C. Can Bilgin, Çiğdem Atakuman, Yılmaz Selim Erdal, Elif Sürer, N. Ezgi Altınışık, Johannes A. Lenstra, Sevgi Yorulmaz, Mohammad Foad Abazari, Javad Hoseinzadeh, Douglas Baird, Erhan Bıçakçı, Özlem Çevik, Fokke Gerritsen, Rana Özbal, Anders Götherström, Mehmet Somel, İnci Togan, Füsun Özer
+        conference: "Communications Biology (2021), 4:1279"
+
+      - title: "Human inbreeding has decreased in time through the Holocene"
+        link: "https://doi.org/10.1016/j.cub.2021.06.027"
+        authors:  Francisco C. Ceballos, Kanat Gürün, N. Ezgi Altınışık, Hasan Can Gemici, Cansu Karamurat, <b>Dilek Koptekin</b>, Kıvılcım Başak Vural, Igor Mapelli, Ekin Sağlıcan, Elif Sürer, Yılmaz Selim Erdal, Anders Götherström, Füsun Özer, Çiğdem Atakuman, Mehmet Somel
+        conference: "Current Biology (2021),31(17):3925-3934"
+
+      - title: "Human population dynamics and Yersinia pestis in ancient northeast Asia"
+        link: "https://doi.org/10.1126/sciadv.abc4587"
+        authors: Gülşah Merve Kılınç, Natalija Kashuba, <b>Dilek Koptekin</b>, Nora Bergfeldt, Handan Melike Dönertaş, Ricardo Rodríguez-Varela, Dmitrij Shergin, Grigorij Ivanov, Dmitrii Kichigin, Kjunnej Pestereva, Denis Volkov, Pavel Mandryka, Artur Kharinskii, Alexey Tishkin, Evgenij Ineshin, Evgeniy Kovychev, Aleksandr Stepanov, Love Dalén, Torsten Günther, Emrah Kırdök, Mattias Jakobsson, Mehmet Somel, Maja Krzewińska, Jan Storå, Anders Götherström
+        conference: "Science Advances (2021),  7(2), eabc4587"
+
+      - title: "Ancient genomics in Neolithic central Anatolia and Çatalhöyük"
+        link: "#"
+        authors: Reyhan Yaka, Ayça Doğu, Damla Kaptan, Nihan Dilşad Dağtaş, Maciej Chyleński, Kıvılcım Başak Vural, N. Ezgi Altınışık, Igor Mapelli, <b>Dilek Koptekin</b>, Cansu Karamurat, Hasan Can Gemici, Sevgi Yorulmaz, Vendela Kempe Lagerholm, Evrim Fer, Ulaş Işıldak, Ayshin Ghalichi, Gülşah Merve Kılınç, Camilla Mazzucato, Anna Juras, Arkadiusz Marciniak, Clark S. Larsen, Marin Pilloud, Scott D. Haddow, Christopher J. Knüsel, İnci Togan, Anders Götherström, Yılmaz Selim Erdal, Elif Sürer, Füsun Özer, Çiğdem Atakuman, Mehmet Somel
+        conference: "Peopling the Landscape of Çatalhöyük: Reports from the 2009–2017 Seasons (Ed. Ian Hodder) (2020), Volume:53, British Institute of Archaeology at Ankara, Nov 1, 2020"
+
+      - title: "Ancient genomes suggest the eastern Pontic-Caspian steppe as the source of western Iron Age nomads"
+        link: "https://doi.org/10.1126/sciadv.aat4457"
+        authors: Maja Krzewińska, Gülşah Merve Kılınç, Anna Juras, <b>Dilek Koptekin</b>, Maciej Chyleński, Alexey G. Nikitin, Nikolai Shcherbakov, Iia Shuteleva, Tatiana Leonova, Liudmila Kraeva, Flarit A. Sungatov, Alfija N. Sultanova, Inna Potekhina, Sylwia Łukasik, Marta Krenz-Niedbała, Love Dalén, Vitaly Sinika, Mattias Jakobsson, Jan Storå, Anders Götherström
+        conference: "Science Advances (2018), 4(10), eaat4457"
+
+      - title: "Archaeogenomic analysis of the first steps of Neolithization in Anatolia and the Aegean"
+        link: "https://doi.org/10.1098/rspb.2017.2064"
+        authors: Gülşah Merve Kılınç, <b>Dilek Koptekin</b>, Çiğdem Atakuman, Arev Pelin Sümer, Handan Melike Dönertaş, Reyhan Yaka, Cemal Can Bilgin, Ali Metin Büyükkarakaya, Douglas Baird, Ezgi Altınışık, Pavel Flegontov, Anders Götherström, İnci Togan, Mehmet Somel
+        conference: "Proceedings of the Royal Society B (2017), 284(1867)"
+
+      - title: "The Demographic Development of the First Farmers in Anatolia"
+        link: "https://doi.org/10.1016/j.cub.2016.07.057"
+        authors: Gülşah Merve Kılınç, Ayça Omrak, Füsun Özer, Torsten Günther, Ali Metin Büyükkarakaya, Erhan Bıçakçı, Douglas Baird, Handan Melike Dönertaş, Ayshin Ghalichi, Reyhan Yaka, <b>Dilek Koptekin</b>, Sinan Can Açan, Poorya Parvizi, Maja Krzewińska, Evangelia A. Daskalaki, Eren Yüncü, Nihan Dilşad Dağtaş, Andrew Fairbairn, Jessica Pearson, Gökhan Mustafaoğlu, Yılmaz Selim Erdal, Yasin Gökhan Çakan, İnci Togan, Mehmet Somel, Jan Storå, Mattias Jakobsson, Anders Götherström
+        conference: "Current Biology (2016), 26(19):2659-2666"
+
+      - title: "Identification of conserved miRNAs and their target genes in faba bean by EST based homology analysis. "
+        link: "#"
+        authors: <b>Dilek Koptekin</b>, Lale Yıldız Aktaş
+        conference: "EJOSAT (2016), 5(9)"
+
+      - title: "Plant microRNAs: Biogenesis, Origin and Evolution"
+        link: "#"
+        authors: <b>Dilek Koptekin</b>, Lale Yıldız Aktaş
+        conference: "Turkish Journal of Scientific Reviews (2013), 6(2):140-148"
+
+presentations:
+    title: Selected presentations
+    papers:
+      - title: "Tracking population structure of Southwest Asia human populations during Holocene"
+        authors:  <b>Dilek Koptekin</b>, Eren Yüncü, Kanat Gürün, Ricardo Rodriguez-Varela, Anders Götherström, Füsun Özer, Mehmet Somel
+        conference: "7th Ecology and Evolutionary Biology Symposium Turkey (2021), İstanbul, Turkey (virtual)."
+    title: Selected presentations
+    papers:
+      - title: "New solutions to old problems: Mitigating data loss and bias in ancient genome data processing"
+        authors:  <b>Dilek Koptekin</b>, Etka Yapar, Ekin Sağlıcan, Can Alkan, Mehmet Somel
+        conference: "13th The International Symposium on Health Informatics and Bioinformatics (2020), Sabancı University, Istanbul, Turkey (virtual)"
+    papers:
+      - title: "Investigation of the Neolithisation in Anatolia and the Aegean by using ancient DNA"
+        authors: <b>Dilek Koptekin</b>, Gülşah Merve Kılınç, Çiğdem Atakuman, Arev Pelin Sümer, Reyhan Yaka, Cemal Can Bilgin, Ali Metin Büyükkarakaya, Douglas Baird, Anders Götherström, İnci Togan, Mehmet Somel
+        conference: " 4th Ecology and Evolutionary Biology Symposium Turkey (2017), İstanbul Technical University, Istanbul, Turkey."
+    papers:
+      - title: "Genome-wide cytosine methylation differences between ancient hunter-gatherers and farmers"
+        authors: <b>Dilek Koptekin</b>, Gülşah Merve Kılınç, Arev Pelin Sümer, Handan Melike Dönertaş, Mehmet Somel
+        conference: "86th Annual Meeting of the American Association of Physical Anthropologists (2017), New Orleans, LA, US"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: R
+        level: 98%
+
+      - name: Python
+        level: 98%
+
+      - name: Unix
+        level: 98%
+
+
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
