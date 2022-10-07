@@ -178,7 +178,7 @@ p {
 
   .experiences-section,
   .educations-section,
-  .grants-section {
+  .grant-section {
     .item {
       margin-bottom: 30px;
     }
@@ -189,8 +189,7 @@ p {
     margin-bottom: 2px;
   }
   .job-title,
-  .degree,
-  .project {
+  .degree {
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
