@@ -178,7 +178,7 @@ p {
 
   .experiences-section,
   .educations-section,
-  .grant-section {
+  .grant-section{
     .item {
       margin-bottom: 30px;
     }
@@ -203,7 +203,8 @@ p {
     color: $text-grey;
   }
   .company,
-  .university {
+  .university,
+  .project {
     margin-bottom: 10px;
     color: $text-grey;
   }
