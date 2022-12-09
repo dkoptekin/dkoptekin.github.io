@@ -107,6 +107,11 @@ publications:
     intro:
     papers:
     
+      - title: "Spatial and temporal heterogeneity in human mobility patterns in Holocene Southwest Asia and the East Mediterranean"
+        link: "https://doi.org/10.1016/j.cub.2022.11.034"
+        authors: <b>Dilek Koptekin</b>, Eren Yüncü, Ricardo Rodríguez-Varela, N. Ezgi Altınışık, Nikolaos Psonis, Natalia Kashuba, Sevgi Yorulmaz, Robert George, Duygu Deniz Kazancı, Damla Kaptan, Kanat Gürün, Kıvılcım Başak Vural, Hasan Can Gemici, Despoina Vassou, Evangelia Daskalaki, Cansu Karamurat, Vendela K. Lagerholm, Ömür Dilek Erdal, Emrah Kırdök, Aurelio Marangoni, Andreas Schachner, Handan Üstündağ, Ramaz Shengelia, Liana Bitadze, Mikheil Elashvili, Eleni Stravopodi, Mihriban Özbaşaran, Güneş Duru, Argyro Nafplioti, C. Brian Rose, Tuğba Gencer, Gareth Darbyshire, Alexander Gavashelishvili, Konstantine Pitskhelauri, Özlem Çevik, Osman Vuruşkan, Nina Kyparissi-Apostolika, Ali Metin Büyükkarakaya, Umay Oğuzhanoğlu, Sevinç Günel, Eugenia Tabakaki, Akper Aliev, Anar Ibrahimov, Vaqif Shadlinski, Adamantios Sampson, Gülşah Merve Kılınç, Çiğdem Atakuman, Alexandros Stamatakis, Nikos Poulakakis, Yılmaz Selim Erdal, Pavlos Pavlidis, Jan Storå, Füsun Özer, Anders Götherström, Mehmet Somel
+        conference: "Current Biology (2022)"
+    
       - title: "A genomic snapshot of demographic and cultural dynamism in Upper Mesopotamia during the Neolithic Transition"
         link: "https://doi.org/10.1126/sciadv.abo3609"
         authors:  N Ezgi Altınışık, Duygu Deniz Kazancı, Ayça Aydoğan, Hasan Can Gemici, Ömür Dilek Erdal, Savaş Sarıaltun, Kıvılcım Başak Vural, <b>Dilek Koptekin</b>, Kanat Gürün, Ekin Sağlıcan, Daniel Fernandes, Gökhan Çakan, Meliha Melis Koruyucu, Vendela Kempe Lagerholm, Cansu Karamurat, Mustafa Özkan, Gülşah Merve Kılınç, Arda Sevkar, Elif Sürer, Anders Götherström, Çiğdem Atakuman, Yılmaz Selim Erdal, Füsun Özer, Aslı Erim Özdoğan, Mehmet Somel
@@ -131,6 +136,11 @@ publications:
         link: "https://doi.org/10.1016/j.cub.2021.06.027"
         authors:  Francisco C. Ceballos, Kanat Gürün, N. Ezgi Altınışık, Hasan Can Gemici, Cansu Karamurat, <b>Dilek Koptekin</b>, Kıvılcım Başak Vural, Igor Mapelli, Ekin Sağlıcan, Elif Sürer, Yılmaz Selim Erdal, Anders Götherström, Füsun Özer, Çiğdem Atakuman, Mehmet Somel
         conference: "Current Biology (2021),31(17):3925-3934"
+        
+      - title: "Variable kinship patterns in Neolithic Anatolia revealed by ancient genomes"
+        link: "https://doi.org/10.1016/j.cub.2021.03.050"
+        authors: Reyhan Yaka, Igor Mapelli, Damla Kaptan, Ayça Doğu, Maciej Chyleński, Ömür Dilek Erdal, Dilek Koptekin, Kıvılcım Başak Vural, Alex Bayliss, Camilla Mazzucato, Evrim Fer, Sevim Seda Çokoğlu, Vendela Kempe Lagerholm, Maja Krzewińska, Cansu Karamurat, Hasan Can Gemici, Arda Sevkar, Nihan Dilşad Dağtaş, Gülşah Merve Kılınç, Donovan Adams, Arielle R. Munters, Ekin Sağlıcan, Marco Milella, Eline M.J. Schotsmans, Erinç Yurtman, Mehmet Çetin, Sevgi Yorulmaz, N. Ezgi Altınışık, Ayshin Ghalichi, Anna Juras, C. Can Bilgin, Torsten Günther, Jan Storå, Mattias Jakobsson, Maurice de Kleijn, Gökhan Mustafaoğlu, Andrew Fairbairn, Jessica Pearson, İnci Togan, Nurcan Kayacan, Arkadiusz Marciniak, Clark Spencer Larsen, Ian Hodder, Çiğdem Atakuman, Marin Pilloud, Elif Sürer, Fokke Gerritsen, Rana Özbal, Douglas Baird, Yılmaz Selim Erdal, Güneş Duru, Mihriban Özbaşaran, Scott D. Haddow, Christopher J. Knüsel, Anders Götherström, Füsun Özer, Mehmet Somel
+        conference: "Current Biology (2021), 31(11):2455-2468"
 
       - title: "Human population dynamics and Yersinia pestis in ancient northeast Asia"
         link: "https://doi.org/10.1126/sciadv.abc4587"
