@@ -107,6 +107,11 @@ publications:
     intro:
     papers:
     
+      - title: "CONGA: Copy number variation genotyping in ancient genomes and low-coverage sequencing data"
+        link: "https://doi.org/10.1371/journal.pcbi.1010788"
+        authors:  Arda Söylev, Sevim Seda Çokoglu, <b>Dilek Koptekin</b>, Can Alkan, Mehmet Somel
+        conference: "PLoS Computational Biology (2022),  18(12):e1010788"
+    
       - title: "Spatial and temporal heterogeneity in human mobility patterns in Holocene Southwest Asia and the East Mediterranean"
         link: "https://doi.org/10.1016/j.cub.2022.11.034"
         authors: <b>Dilek Koptekin</b>, Eren Yüncü, Ricardo Rodríguez-Varela, N. Ezgi Altınışık, Nikolaos Psonis, Natalia Kashuba, Sevgi Yorulmaz, Robert George, Duygu Deniz Kazancı, Damla Kaptan, Kanat Gürün, Kıvılcım Başak Vural, Hasan Can Gemici, Despoina Vassou, Evangelia Daskalaki, Cansu Karamurat, Vendela K. Lagerholm, Ömür Dilek Erdal, Emrah Kırdök, Aurelio Marangoni, Andreas Schachner, Handan Üstündağ, Ramaz Shengelia, Liana Bitadze, Mikheil Elashvili, Eleni Stravopodi, Mihriban Özbaşaran, Güneş Duru, Argyro Nafplioti, C. Brian Rose, Tuğba Gencer, Gareth Darbyshire, Alexander Gavashelishvili, Konstantine Pitskhelauri, Özlem Çevik, Osman Vuruşkan, Nina Kyparissi-Apostolika, Ali Metin Büyükkarakaya, Umay Oğuzhanoğlu, Sevinç Günel, Eugenia Tabakaki, Akper Aliev, Anar Ibrahimov, Vaqif Shadlinski, Adamantios Sampson, Gülşah Merve Kılınç, Çiğdem Atakuman, Alexandros Stamatakis, Nikos Poulakakis, Yılmaz Selim Erdal, Pavlos Pavlidis, Jan Storå, Füsun Özer, Anders Götherström, Mehmet Somel
@@ -121,11 +126,6 @@ publications:
         link: "https://doi.org/10.12688/openreseurope.14936.1"
         authors:  Gözde Atağ, Kıvılcım Başak Vural, Damla Kaptan, Mustafa Özkan, <b>Dilek Koptekin</b>, Ekin Sağlıcan, Sevcan Doğramacı, Mevlüt Köz, Ardan Yılmaz, Arda Söylev, İnci Togan, Mehmet Somel, Füsun Özer
         conference: "Open Res Europe (2022), 2:100"
-
-      - title: "CONGA: Copy number variation genotyping in ancient genomes and low-coverage sequencing data"
-        link: "https://doi.org/10.1101/2021.12.17.473150"
-        authors:  Arda Söylev, Sevim Seda Çokoglu, <b>Dilek Koptekin</b>, Can Alkan, Mehmet Somel
-        conference: "bioRxiv (2021)"
 
       - title: "Archaeogenetic analysis of Neolithic sheep from Anatolia suggests a complex demographic history since domestication"
         link: "https://doi.org/10.1038/s42003-021-02794-8"
